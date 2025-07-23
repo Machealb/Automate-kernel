@@ -15,5 +15,5 @@ Examples include
 
 ## References
 
-[1] Haibo Li and Fei Lu. *Automatic reproducing kernel and regularization for learning convolution kernels*. xxx, 2025.  
-📄 [Read on arXiv](xxx)
+[1] Haibo Li and Fei Lu. *Automatic reproducing kernel and regularization for learning convolution kernels*. 2025.  
+📄 [Read on arXiv](https://doi.org/10.48550/arXiv.2507.11944)
